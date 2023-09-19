@@ -1,2 +1,2 @@
 # Lab1
-Change in Main Branch
+This is a sample file.
