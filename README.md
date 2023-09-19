@@ -1,3 +1,2 @@
 # Lab1
-Made Change in File
-Conflict Resolved
+Change in Main Branch
